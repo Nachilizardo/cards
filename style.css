@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(192 213 213)
+}
+
+.productos{
+    padding: 20px;
+    background-color: #fffdfb;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.3)
+}
+
+.productos h2{
+    color: rgb(82, 91, 95);
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.productos img{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.productos .descripción{
+    color: rgb(101 118 118);
+    text-align: center;
+    font-size: 23px;
+}
+
+.productos .precio{
+    color: #ff8100;
+    font-weight: 300;
+    font-size: 21px;
+    text-align: right;
+    font-family: fantasy;
+}
